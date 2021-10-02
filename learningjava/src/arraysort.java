@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class arraysort {
     public static void main(String[] args) {
         ArrayList<Integer>  arr = new ArrayList<Integer>();
-        //The program should accept input from the user
+        //The program should accept input from the user to make the program usable
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=0;i<n;i++){
